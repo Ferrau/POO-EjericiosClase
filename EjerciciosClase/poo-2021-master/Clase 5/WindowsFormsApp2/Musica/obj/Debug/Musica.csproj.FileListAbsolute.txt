@@ -1,0 +1,16 @@
+C:\Users\Christian\source\repos\WindowsFormsApp2\Musica\bin\Debug\Musica.exe.config
+C:\Users\Christian\source\repos\WindowsFormsApp2\Musica\bin\Debug\Musica.exe
+C:\Users\Christian\source\repos\WindowsFormsApp2\Musica\bin\Debug\Musica.pdb
+C:\Users\Christian\source\repos\WindowsFormsApp2\Musica\obj\Debug\Musica.Form1.resources
+C:\Users\Christian\source\repos\WindowsFormsApp2\Musica\obj\Debug\Musica.Properties.Resources.resources
+C:\Users\Christian\source\repos\WindowsFormsApp2\Musica\obj\Debug\Musica.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\WindowsFormsApp2\Musica\obj\Debug\Musica.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\WindowsFormsApp2\Musica\obj\Debug\Musica.exe
+C:\Users\Christian\source\repos\WindowsFormsApp2\Musica\obj\Debug\Musica.pdb
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 5\WindowsFormsApp2\Musica\obj\Debug\Musica.csproj.AssemblyReference.cache
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 5\WindowsFormsApp2\Musica\obj\Debug\Musica.csproj.SuggestedBindingRedirects.cache
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 5\WindowsFormsApp2\Musica\obj\Debug\Musica.Form1.resources
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 5\WindowsFormsApp2\Musica\obj\Debug\Musica.Properties.Resources.resources
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 5\WindowsFormsApp2\Musica\obj\Debug\Musica.csproj.GenerateResource.cache
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 5\WindowsFormsApp2\Musica\obj\Debug\Musica.csproj.CoreCompileInputs.cache
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 5\WindowsFormsApp2\Musica\obj\Debug\Musica.pdb

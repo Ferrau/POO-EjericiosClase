@@ -1,0 +1,10 @@
+C:\Users\Navegador\source\repos\Clase2\bin\Debug\Clase2.exe.config
+C:\Users\Navegador\source\repos\Clase2\bin\Debug\Clase2.exe
+C:\Users\Navegador\source\repos\Clase2\bin\Debug\Clase2.pdb
+C:\Users\Navegador\source\repos\Clase2\obj\Debug\Clase2.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\Clase2\obj\Debug\Clase2.Form1.resources
+C:\Users\Navegador\source\repos\Clase2\obj\Debug\Clase2.Properties.Resources.resources
+C:\Users\Navegador\source\repos\Clase2\obj\Debug\Clase2.csproj.GenerateResource.cache
+C:\Users\Navegador\source\repos\Clase2\obj\Debug\Clase2.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\Clase2\obj\Debug\Clase2.exe
+C:\Users\Navegador\source\repos\Clase2\obj\Debug\Clase2.pdb

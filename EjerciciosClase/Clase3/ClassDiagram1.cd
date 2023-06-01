@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Clase3.PERSONA">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAQAAACEAAAAgAAAAAAEAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>PERSONA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clase3.PAREJA">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAACAAAQAgAAEAAAAAAAA=</HashCode>
+      <FileName>PAREJA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clase3.JUEZ">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>JUEZ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Clase3.ESTADOCIVIL">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAhACAAAA=</HashCode>
+      <FileName>ESTADOCIVIL.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

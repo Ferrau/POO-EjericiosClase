@@ -1,0 +1,10 @@
+Z:\C#\Unidad 1\Ej0026\Ej0026\bin\Debug\Ej0026.exe.config
+Z:\C#\Unidad 1\Ej0026\Ej0026\bin\Debug\Ej0026.exe
+Z:\C#\Unidad 1\Ej0026\Ej0026\bin\Debug\Ej0026.pdb
+Z:\C#\Unidad 1\Ej0026\Ej0026\obj\Debug\Ej0026.csprojResolveAssemblyReference.cache
+Z:\C#\Unidad 1\Ej0026\Ej0026\obj\Debug\Ej0026.Form1.resources
+Z:\C#\Unidad 1\Ej0026\Ej0026\obj\Debug\Ej0026.Properties.Resources.resources
+Z:\C#\Unidad 1\Ej0026\Ej0026\obj\Debug\Ej0026.csproj.GenerateResource.cache
+Z:\C#\Unidad 1\Ej0026\Ej0026\obj\Debug\Ej0026.csproj.CoreCompileInputs.cache
+Z:\C#\Unidad 1\Ej0026\Ej0026\obj\Debug\Ej0026.exe
+Z:\C#\Unidad 1\Ej0026\Ej0026\obj\Debug\Ej0026.pdb

@@ -1,0 +1,10 @@
+C:\Users\Christian\source\repos\Clase 12\Interfaces2\bin\Debug\Interfaces2.exe.config
+C:\Users\Christian\source\repos\Clase 12\Interfaces2\bin\Debug\Interfaces2.exe
+C:\Users\Christian\source\repos\Clase 12\Interfaces2\bin\Debug\Interfaces2.pdb
+C:\Users\Christian\source\repos\Clase 12\Interfaces2\obj\Debug\Interfaces2.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\Clase 12\Interfaces2\obj\Debug\Interfaces2.Form1.resources
+C:\Users\Christian\source\repos\Clase 12\Interfaces2\obj\Debug\Interfaces2.Properties.Resources.resources
+C:\Users\Christian\source\repos\Clase 12\Interfaces2\obj\Debug\Interfaces2.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\Clase 12\Interfaces2\obj\Debug\Interfaces2.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Clase 12\Interfaces2\obj\Debug\Interfaces2.exe
+C:\Users\Christian\source\repos\Clase 12\Interfaces2\obj\Debug\Interfaces2.pdb

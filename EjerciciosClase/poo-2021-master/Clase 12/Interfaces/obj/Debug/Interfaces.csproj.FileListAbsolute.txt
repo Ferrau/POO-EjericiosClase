@@ -1,0 +1,10 @@
+C:\Users\Christian\source\repos\Clase 12\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\Christian\source\repos\Clase 12\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\Christian\source\repos\Clase 12\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Christian\source\repos\Clase 12\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\Clase 12\Interfaces\obj\Debug\Interfaces.Form1.resources
+C:\Users\Christian\source\repos\Clase 12\Interfaces\obj\Debug\Interfaces.Properties.Resources.resources
+C:\Users\Christian\source\repos\Clase 12\Interfaces\obj\Debug\Interfaces.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\Clase 12\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Clase 12\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\Christian\source\repos\Clase 12\Interfaces\obj\Debug\Interfaces.pdb

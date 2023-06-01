@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Interfaces.Instrumento">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Instrumento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interfaces.Piano">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <InheritanceLine Type="Interfaces.Instrumento" ManuallyRouted="true">
+      <Path>
+        <Point X="3.25" Y="2.103" />
+        <Point X="3.25" Y="3.375" />
+        <Point X="2.288" Y="3.375" />
+        <Point X="2.288" Y="3.626" />
+        <Point X="1.5" Y="3.626" />
+        <Point X="1.5" Y="1.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAgAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Piano.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Interfaces.Rallador">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAACAAAAAgAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rallador.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Interfaces.GUITARRA">
+    <Position X="1.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAAAIAAAQAAAA=</HashCode>
+      <FileName>GUITARRA.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Interfaces.ITocable">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAgAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ITocable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Interfaces.IAfinable">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>IAfinable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Delegate Name="Interfaces.delTocando">
+    <Position X="7.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>delTocando.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

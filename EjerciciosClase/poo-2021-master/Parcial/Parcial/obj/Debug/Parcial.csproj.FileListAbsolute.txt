@@ -1,0 +1,26 @@
+C:\Users\Christian\source\repos\Parcial\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\Christian\source\repos\Parcial\Parcial\bin\Debug\Parcial.exe
+C:\Users\Christian\source\repos\Parcial\Parcial\bin\Debug\Parcial.pdb
+C:\Users\Christian\source\repos\Parcial\Parcial\bin\Debug\Negocio.dll
+C:\Users\Christian\source\repos\Parcial\Parcial\bin\Debug\Negocio.pdb
+C:\Users\Christian\source\repos\Parcial\Parcial\obj\Debug\Parcial.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\Parcial\Parcial\obj\Debug\Parcial.Form1.resources
+C:\Users\Christian\source\repos\Parcial\Parcial\obj\Debug\Parcial.Properties.Resources.resources
+C:\Users\Christian\source\repos\Parcial\Parcial\obj\Debug\Parcial.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Parcial\Parcial\obj\Debug\Parcial.csproj.CopyComplete
+C:\Users\Christian\source\repos\Parcial\Parcial\obj\Debug\Parcial.exe
+C:\Users\Christian\source\repos\Parcial\Parcial\obj\Debug\Parcial.pdb
+C:\Users\Christian\source\repos\POO 2021\poo-2021\Parcial\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\Christian\source\repos\POO 2021\poo-2021\Parcial\Parcial\bin\Debug\Parcial.exe
+C:\Users\Christian\source\repos\POO 2021\poo-2021\Parcial\Parcial\bin\Debug\Parcial.pdb
+C:\Users\Christian\source\repos\POO 2021\poo-2021\Parcial\Parcial\bin\Debug\Negocio.dll
+C:\Users\Christian\source\repos\POO 2021\poo-2021\Parcial\Parcial\bin\Debug\Negocio.pdb
+C:\Users\Christian\source\repos\POO 2021\poo-2021\Parcial\Parcial\obj\Debug\Parcial.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\POO 2021\poo-2021\Parcial\Parcial\obj\Debug\Parcial.Form1.resources
+C:\Users\Christian\source\repos\POO 2021\poo-2021\Parcial\Parcial\obj\Debug\Parcial.Properties.Resources.resources
+C:\Users\Christian\source\repos\POO 2021\poo-2021\Parcial\Parcial\obj\Debug\Parcial.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\POO 2021\poo-2021\Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\POO 2021\poo-2021\Parcial\Parcial\obj\Debug\Parcial.csproj.CopyComplete
+C:\Users\Christian\source\repos\POO 2021\poo-2021\Parcial\Parcial\obj\Debug\Parcial.exe
+C:\Users\Christian\source\repos\POO 2021\poo-2021\Parcial\Parcial\obj\Debug\Parcial.pdb

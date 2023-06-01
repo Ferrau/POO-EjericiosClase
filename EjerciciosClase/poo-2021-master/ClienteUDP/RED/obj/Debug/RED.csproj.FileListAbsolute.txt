@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\ClienteUDP\RED\bin\Debug\RED.dll
+C:\Users\Christian\source\repos\ClienteUDP\RED\bin\Debug\RED.pdb
+C:\Users\Christian\source\repos\ClienteUDP\RED\obj\Debug\RED.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\ClienteUDP\RED\obj\Debug\RED.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\ClienteUDP\RED\obj\Debug\RED.dll
+C:\Users\Christian\source\repos\ClienteUDP\RED\obj\Debug\RED.pdb

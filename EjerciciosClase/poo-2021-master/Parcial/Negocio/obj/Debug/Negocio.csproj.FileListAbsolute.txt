@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\Parcial\Negocio\bin\Debug\Negocio.dll
+C:\Users\Christian\source\repos\Parcial\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Christian\source\repos\Parcial\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\Parcial\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Parcial\Negocio\obj\Debug\Negocio.dll
+C:\Users\Christian\source\repos\Parcial\Negocio\obj\Debug\Negocio.pdb

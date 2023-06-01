@@ -1,0 +1,14 @@
+C:\Users\Christian\source\repos\MDI\MDI\bin\Debug\MDI.exe.config
+C:\Users\Christian\source\repos\MDI\MDI\bin\Debug\MDI.exe
+C:\Users\Christian\source\repos\MDI\MDI\bin\Debug\MDI.pdb
+C:\Users\Christian\source\repos\MDI\MDI\obj\Debug\MDI.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\MDI\MDI\obj\Debug\MDI.frmPrincipal.resources
+C:\Users\Christian\source\repos\MDI\MDI\obj\Debug\MDI.frmInscripcion.resources
+C:\Users\Christian\source\repos\MDI\MDI\obj\Debug\MDI.Properties.Resources.resources
+C:\Users\Christian\source\repos\MDI\MDI\obj\Debug\MDI.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\MDI\MDI\obj\Debug\MDI.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\MDI\MDI\obj\Debug\MDI.exe
+C:\Users\Christian\source\repos\MDI\MDI\obj\Debug\MDI.pdb
+C:\Users\Christian\source\repos\MDI\MDI\obj\Debug\MDI.frmConsulta.resources
+C:\Users\Christian\source\repos\MDI\MDI\obj\Debug\MDI.frmDocumento.resources
+C:\Users\Christian\source\repos\MDI\MDI\obj\Debug\MDI.frmBuscar.resources

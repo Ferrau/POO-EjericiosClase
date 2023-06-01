@@ -1,0 +1,12 @@
+C:\Users\ester\repositorios\POO\EjericiciosEster\Clase2-EstacionServicio\bin\Debug\Clase2-EstacionServicio.exe.config
+C:\Users\ester\repositorios\POO\EjericiciosEster\Clase2-EstacionServicio\bin\Debug\Clase2-EstacionServicio.exe
+C:\Users\ester\repositorios\POO\EjericiciosEster\Clase2-EstacionServicio\bin\Debug\Clase2-EstacionServicio.pdb
+C:\Users\ester\repositorios\POO\EjericiciosEster\Clase2-EstacionServicio\obj\Debug\Clase2-EstacionServicio.csproj.AssemblyReference.cache
+C:\Users\ester\repositorios\POO\EjericiciosEster\Clase2-EstacionServicio\obj\Debug\Clase2-EstacionServicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\ester\repositorios\POO\EjericiciosEster\Clase2-EstacionServicio\obj\Debug\Clase2_EstacionServicio.Form1.resources
+C:\Users\ester\repositorios\POO\EjericiciosEster\Clase2-EstacionServicio\obj\Debug\Clase2_EstacionServicio.Properties.Resources.resources
+C:\Users\ester\repositorios\POO\EjericiciosEster\Clase2-EstacionServicio\obj\Debug\Clase2-EstacionServicio.csproj.GenerateResource.cache
+C:\Users\ester\repositorios\POO\EjericiciosEster\Clase2-EstacionServicio\obj\Debug\Clase2-EstacionServicio.csproj.CoreCompileInputs.cache
+C:\Users\ester\repositorios\POO\EjericiciosEster\Clase2-EstacionServicio\obj\Debug\Clase2-EstacionServicio.exe
+C:\Users\ester\repositorios\POO\EjericiciosEster\Clase2-EstacionServicio\obj\Debug\Clase2-EstacionServicio.pdb
+C:\Users\ester\repositorios\POO\EjericiciosEster\Clase2-EstacionServicio\obj\Debug\Clase2_EstacionServicio.Form2.resources

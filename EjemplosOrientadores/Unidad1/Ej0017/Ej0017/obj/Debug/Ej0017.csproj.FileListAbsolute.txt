@@ -1,0 +1,4 @@
+Z:\C#\Unidad 1\Ej0017\Ej0017\obj\Debug\Ej0017.csprojResolveAssemblyReference.cache
+Z:\C#\Unidad 1\Ej0017\Ej0017\obj\Debug\Ej0017.Form1.resources
+Z:\C#\Unidad 1\Ej0017\Ej0017\obj\Debug\Ej0017.Properties.Resources.resources
+Z:\C#\Unidad 1\Ej0017\Ej0017\obj\Debug\Ej0017.csproj.GenerateResource.Cache

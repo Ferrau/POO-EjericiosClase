@@ -1,0 +1,10 @@
+C:\Users\Christian\source\repos\Generic\Generic\bin\Debug\Generic.exe.config
+C:\Users\Christian\source\repos\Generic\Generic\bin\Debug\Generic.exe
+C:\Users\Christian\source\repos\Generic\Generic\bin\Debug\Generic.pdb
+C:\Users\Christian\source\repos\Generic\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\Generic\Generic\obj\Debug\Generic.Form1.resources
+C:\Users\Christian\source\repos\Generic\Generic\obj\Debug\Generic.Properties.Resources.resources
+C:\Users\Christian\source\repos\Generic\Generic\obj\Debug\Generic.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\Generic\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Generic\Generic\obj\Debug\Generic.exe
+C:\Users\Christian\source\repos\Generic\Generic\obj\Debug\Generic.pdb

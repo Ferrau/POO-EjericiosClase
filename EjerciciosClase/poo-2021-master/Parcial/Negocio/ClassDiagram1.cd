@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Negocio.Instituto">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAACAAAAAgAAAAAAAAAABAAAAAAACAEAEAEAABAAA=</HashCode>
+      <FileName>Instituto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.Descubrimiento">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAACAAQAAAAEAAAIAAAgAAEAIAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Descubrimiento.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Ciudad" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Negocio.Ciudad">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAACEAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ciudad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.Tumba">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAIBAAAAAEAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Tumba.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.Monumento">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAIAAAAAAEAAAAAAIAAAAAAAAQA=</HashCode>
+      <FileName>Monumento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.Pais">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAACgAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pais.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.CiudadDescubierta">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAMAAAAAAAAAAAIAQAAABEAAAAQAIAAAAAAAAAA=</HashCode>
+      <FileName>CiudadDescubierta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.Arqueologo">
+    <Position X="9.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAACAAAAQgAAAEAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Arqueologo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.ArqueologoDifunto">
+    <Position X="7.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ArqueologoDifunto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.TumbaAutoridad">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TumbaAutoridad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.Persona">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.MonumentoTributoDios">
+    <Position X="4" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MonumentoTributo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.Dios">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.Autoridad">
+    <Position X="7.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Autoridad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.MonumentoTributoAutoridad">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MonumentoTributoAutoridad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Negocio.enumTipo">
+    <Position X="5.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAkAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>enumTipo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

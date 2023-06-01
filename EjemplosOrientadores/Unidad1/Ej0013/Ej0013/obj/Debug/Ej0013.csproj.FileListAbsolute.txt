@@ -1,0 +1,9 @@
+Z:\C#\Unidad 1\Ej0013\Ej0013\bin\Debug\Ej0013.exe.config
+Z:\C#\Unidad 1\Ej0013\Ej0013\bin\Debug\Ej0013.exe
+Z:\C#\Unidad 1\Ej0013\Ej0013\bin\Debug\Ej0013.pdb
+Z:\C#\Unidad 1\Ej0013\Ej0013\obj\Debug\Ej0013.csprojResolveAssemblyReference.cache
+Z:\C#\Unidad 1\Ej0013\Ej0013\obj\Debug\Ej0013.Form1.resources
+Z:\C#\Unidad 1\Ej0013\Ej0013\obj\Debug\Ej0013.Properties.Resources.resources
+Z:\C#\Unidad 1\Ej0013\Ej0013\obj\Debug\Ej0013.csproj.GenerateResource.Cache
+Z:\C#\Unidad 1\Ej0013\Ej0013\obj\Debug\Ej0013.exe
+Z:\C#\Unidad 1\Ej0013\Ej0013\obj\Debug\Ej0013.pdb

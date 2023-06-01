@@ -1,0 +1,25 @@
+C:\Users\Christian\source\repos\Clase 3\Clase 3\bin\Debug\Clase 3.exe.config
+C:\Users\Christian\source\repos\Clase 3\Clase 3\bin\Debug\Clase 3.exe
+C:\Users\Christian\source\repos\Clase 3\Clase 3\bin\Debug\Clase 3.pdb
+C:\Users\Christian\source\repos\Clase 3\Clase 3\obj\Debug\Clase 3.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\Clase 3\Clase 3\obj\Debug\Clase_3.Form1.resources
+C:\Users\Christian\source\repos\Clase 3\Clase 3\obj\Debug\Clase_3.frmNafta.resources
+C:\Users\Christian\source\repos\Clase 3\Clase 3\obj\Debug\Clase_3.Properties.Resources.resources
+C:\Users\Christian\source\repos\Clase 3\Clase 3\obj\Debug\Clase 3.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\Clase 3\Clase 3\obj\Debug\Clase 3.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Clase 3\Clase 3\obj\Debug\Clase 3.exe
+C:\Users\Christian\source\repos\Clase 3\Clase 3\obj\Debug\Clase 3.pdb
+C:\Users\Christian\source\repos\Clase 3\Clase 3\obj\Debug\Clase_3.frmSurtidor.resources
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 3\Clase 3\bin\Debug\Clase 3.exe.config
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 3\Clase 3\bin\Debug\Clase 3.exe
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 3\Clase 3\bin\Debug\Clase 3.pdb
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 3\Clase 3\obj\Debug\Clase 3.csproj.AssemblyReference.cache
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 3\Clase 3\obj\Debug\Clase 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 3\Clase 3\obj\Debug\Clase_3.Form1.resources
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 3\Clase 3\obj\Debug\Clase_3.frmNafta.resources
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 3\Clase 3\obj\Debug\Clase_3.frmSurtidor.resources
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 3\Clase 3\obj\Debug\Clase_3.Properties.Resources.resources
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 3\Clase 3\obj\Debug\Clase 3.csproj.GenerateResource.cache
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 3\Clase 3\obj\Debug\Clase 3.csproj.CoreCompileInputs.cache
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 3\Clase 3\obj\Debug\Clase 3.exe
+C:\Users\ester\repositorios\POO\EjerciciosClase\poo-2021-master\Clase 3\Clase 3\obj\Debug\Clase 3.pdb

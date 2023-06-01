@@ -1,0 +1,11 @@
+C:\Users\ester\repositorios\POO\EjericiciosEster\EjercicioObjetosYClases\bin\Debug\EjercicioObjetosYClases.exe.config
+C:\Users\ester\repositorios\POO\EjericiciosEster\EjercicioObjetosYClases\bin\Debug\EjercicioObjetosYClases.exe
+C:\Users\ester\repositorios\POO\EjericiciosEster\EjercicioObjetosYClases\bin\Debug\EjercicioObjetosYClases.pdb
+C:\Users\ester\repositorios\POO\EjericiciosEster\EjercicioObjetosYClases\obj\Debug\EjercicioObjetosYClases.csproj.AssemblyReference.cache
+C:\Users\ester\repositorios\POO\EjericiciosEster\EjercicioObjetosYClases\obj\Debug\EjercicioObjetosYClases.csproj.SuggestedBindingRedirects.cache
+C:\Users\ester\repositorios\POO\EjericiciosEster\EjercicioObjetosYClases\obj\Debug\EjercicioObjetosYClases.Form1.resources
+C:\Users\ester\repositorios\POO\EjericiciosEster\EjercicioObjetosYClases\obj\Debug\EjercicioObjetosYClases.Properties.Resources.resources
+C:\Users\ester\repositorios\POO\EjericiciosEster\EjercicioObjetosYClases\obj\Debug\EjercicioObjetosYClases.csproj.GenerateResource.cache
+C:\Users\ester\repositorios\POO\EjericiciosEster\EjercicioObjetosYClases\obj\Debug\EjercicioObjetosYClases.csproj.CoreCompileInputs.cache
+C:\Users\ester\repositorios\POO\EjericiciosEster\EjercicioObjetosYClases\obj\Debug\EjercicioObjetosYClases.exe
+C:\Users\ester\repositorios\POO\EjericiciosEster\EjercicioObjetosYClases\obj\Debug\EjercicioObjetosYClases.pdb

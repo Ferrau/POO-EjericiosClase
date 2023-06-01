@@ -1,0 +1,13 @@
+C:\Users\Christian\source\repos\ClienteUDP\ClienteUDP\bin\Debug\ClienteUDP.exe.config
+C:\Users\Christian\source\repos\ClienteUDP\ClienteUDP\bin\Debug\ClienteUDP.exe
+C:\Users\Christian\source\repos\ClienteUDP\ClienteUDP\bin\Debug\ClienteUDP.pdb
+C:\Users\Christian\source\repos\ClienteUDP\ClienteUDP\bin\Debug\RED.dll
+C:\Users\Christian\source\repos\ClienteUDP\ClienteUDP\bin\Debug\RED.pdb
+C:\Users\Christian\source\repos\ClienteUDP\ClienteUDP\obj\Debug\ClienteUDP.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\ClienteUDP\ClienteUDP\obj\Debug\ClienteUDP.Form1.resources
+C:\Users\Christian\source\repos\ClienteUDP\ClienteUDP\obj\Debug\ClienteUDP.Properties.Resources.resources
+C:\Users\Christian\source\repos\ClienteUDP\ClienteUDP\obj\Debug\ClienteUDP.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\ClienteUDP\ClienteUDP\obj\Debug\ClienteUDP.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\ClienteUDP\ClienteUDP\obj\Debug\ClienteUDP.csproj.CopyComplete
+C:\Users\Christian\source\repos\ClienteUDP\ClienteUDP\obj\Debug\ClienteUDP.exe
+C:\Users\Christian\source\repos\ClienteUDP\ClienteUDP\obj\Debug\ClienteUDP.pdb

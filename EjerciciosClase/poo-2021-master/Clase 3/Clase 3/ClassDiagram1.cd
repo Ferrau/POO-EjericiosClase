@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Clase_3.Estacion">
+    <Position X="1.25" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAEACAABAAAAAAAAAAAAAAAAgAAAAAAAAAAQAAAAE=</HashCode>
+      <FileName>Estacion.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Nafta1" />
+      <Property Name="Nafta2" />
+      <Property Name="Nafta3" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Clase_3.Venta">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Venta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clase_3.Surtidor">
+    <Position X="4" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAEgAAABAAAAQEAAAMAAAAAAAAgAAAAIAEAAQABAIE=</HashCode>
+      <FileName>Surtidor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Nafta" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Clase_3.Nafta">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAABGAAAABgAAQAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nafta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

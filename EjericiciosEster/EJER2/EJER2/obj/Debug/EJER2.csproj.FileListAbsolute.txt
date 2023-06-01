@@ -1,0 +1,33 @@
+C:\Users\facuni\Desktop\UAI\Segundo año\Primer cuatrimestre\POO (Programación Orientada a Objetos)\REPO\Ejercicio 2\EJER2\EJER2\bin\Debug\EJER2.exe.config
+C:\Users\facuni\Desktop\UAI\Segundo año\Primer cuatrimestre\POO (Programación Orientada a Objetos)\REPO\Ejercicio 2\EJER2\EJER2\bin\Debug\EJER2.exe
+C:\Users\facuni\Desktop\UAI\Segundo año\Primer cuatrimestre\POO (Programación Orientada a Objetos)\REPO\Ejercicio 2\EJER2\EJER2\bin\Debug\EJER2.pdb
+C:\Users\facuni\Desktop\UAI\Segundo año\Primer cuatrimestre\POO (Programación Orientada a Objetos)\REPO\Ejercicio 2\EJER2\EJER2\obj\Debug\EJER2.csproj.AssemblyReference.cache
+C:\Users\facuni\Desktop\UAI\Segundo año\Primer cuatrimestre\POO (Programación Orientada a Objetos)\REPO\Ejercicio 2\EJER2\EJER2\obj\Debug\EJER2.Properties.Resources.resources
+C:\Users\facuni\Desktop\UAI\Segundo año\Primer cuatrimestre\POO (Programación Orientada a Objetos)\REPO\Ejercicio 2\EJER2\EJER2\obj\Debug\EJER2.csproj.GenerateResource.cache
+C:\Users\facuni\Desktop\UAI\Segundo año\Primer cuatrimestre\POO (Programación Orientada a Objetos)\REPO\Ejercicio 2\EJER2\EJER2\obj\Debug\EJER2.csproj.CoreCompileInputs.cache
+C:\Users\facuni\Desktop\UAI\Segundo año\Primer cuatrimestre\POO (Programación Orientada a Objetos)\REPO\Ejercicio 2\EJER2\EJER2\obj\Debug\EJER2.exe
+C:\Users\facuni\Desktop\UAI\Segundo año\Primer cuatrimestre\POO (Programación Orientada a Objetos)\REPO\Ejercicio 2\EJER2\EJER2\obj\Debug\EJER2.pdb
+C:\Users\facuni\Desktop\UAI\Segundo año\Primer cuatrimestre\POO (Programación Orientada a Objetos)\REPO\Ejercicio 2\EJER2\EJER2\obj\Debug\EJER2.Form1.resources
+E:\@EJER2\EJER2\EJER2\bin\Debug\EJER2.exe.config
+E:\@EJER2\EJER2\EJER2\bin\Debug\EJER2.exe
+E:\@EJER2\EJER2\EJER2\bin\Debug\EJER2.pdb
+E:\@EJER2\EJER2\EJER2\obj\Debug\EJER2.csproj.AssemblyReference.cache
+E:\@EJER2\EJER2\EJER2\obj\Debug\EJER2.Form1.resources
+E:\@EJER2\EJER2\EJER2\obj\Debug\EJER2.Properties.Resources.resources
+E:\@EJER2\EJER2\EJER2\obj\Debug\EJER2.csproj.GenerateResource.cache
+E:\@EJER2\EJER2\EJER2\obj\Debug\EJER2.csproj.CoreCompileInputs.cache
+E:\@EJER2\EJER2\EJER2\obj\Debug\EJER2.exe
+E:\@EJER2\EJER2\EJER2\obj\Debug\EJER2.pdb
+E:\@EJER2\EJER2\EJER2\obj\Debug\EJER2.frmNafta.resources
+C:\Users\ester\repositorios\POO\EjericiciosEster\EJER2\EJER2\bin\Debug\EJER2.exe.config
+C:\Users\ester\repositorios\POO\EjericiciosEster\EJER2\EJER2\bin\Debug\EJER2.exe
+C:\Users\ester\repositorios\POO\EjericiciosEster\EJER2\EJER2\bin\Debug\EJER2.pdb
+C:\Users\ester\repositorios\POO\EjericiciosEster\EJER2\EJER2\obj\Debug\EJER2.csproj.AssemblyReference.cache
+C:\Users\ester\repositorios\POO\EjericiciosEster\EJER2\EJER2\obj\Debug\EJER2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ester\repositorios\POO\EjericiciosEster\EJER2\EJER2\obj\Debug\EJER2.Form1.resources
+C:\Users\ester\repositorios\POO\EjericiciosEster\EJER2\EJER2\obj\Debug\EJER2.frmNafta.resources
+C:\Users\ester\repositorios\POO\EjericiciosEster\EJER2\EJER2\obj\Debug\EJER2.Properties.Resources.resources
+C:\Users\ester\repositorios\POO\EjericiciosEster\EJER2\EJER2\obj\Debug\EJER2.csproj.GenerateResource.cache
+C:\Users\ester\repositorios\POO\EjericiciosEster\EJER2\EJER2\obj\Debug\EJER2.csproj.CoreCompileInputs.cache
+C:\Users\ester\repositorios\POO\EjericiciosEster\EJER2\EJER2\obj\Debug\EJER2.exe
+C:\Users\ester\repositorios\POO\EjericiciosEster\EJER2\EJER2\obj\Debug\EJER2.pdb

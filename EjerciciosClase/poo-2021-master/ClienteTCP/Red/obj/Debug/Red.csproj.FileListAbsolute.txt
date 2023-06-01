@@ -1,0 +1,6 @@
+C:\Users\Christian\source\repos\ClienteTCP\Red\bin\Debug\Red.dll
+C:\Users\Christian\source\repos\ClienteTCP\Red\bin\Debug\Red.pdb
+C:\Users\Christian\source\repos\ClienteTCP\Red\obj\Debug\Red.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\ClienteTCP\Red\obj\Debug\Red.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\ClienteTCP\Red\obj\Debug\Red.dll
+C:\Users\Christian\source\repos\ClienteTCP\Red\obj\Debug\Red.pdb

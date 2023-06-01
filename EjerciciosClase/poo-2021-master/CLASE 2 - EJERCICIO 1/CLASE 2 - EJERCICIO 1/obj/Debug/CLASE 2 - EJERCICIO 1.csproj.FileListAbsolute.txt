@@ -1,0 +1,10 @@
+C:\Users\Christian\source\repos\CLASE 2 - EJERCICIO 1\CLASE 2 - EJERCICIO 1\bin\Debug\CLASE 2 - EJERCICIO 1.exe.config
+C:\Users\Christian\source\repos\CLASE 2 - EJERCICIO 1\CLASE 2 - EJERCICIO 1\bin\Debug\CLASE 2 - EJERCICIO 1.exe
+C:\Users\Christian\source\repos\CLASE 2 - EJERCICIO 1\CLASE 2 - EJERCICIO 1\bin\Debug\CLASE 2 - EJERCICIO 1.pdb
+C:\Users\Christian\source\repos\CLASE 2 - EJERCICIO 1\CLASE 2 - EJERCICIO 1\obj\Debug\CLASE 2 - EJERCICIO 1.csprojAssemblyReference.cache
+C:\Users\Christian\source\repos\CLASE 2 - EJERCICIO 1\CLASE 2 - EJERCICIO 1\obj\Debug\CLASE_2___EJERCICIO_1.Form1.resources
+C:\Users\Christian\source\repos\CLASE 2 - EJERCICIO 1\CLASE 2 - EJERCICIO 1\obj\Debug\CLASE_2___EJERCICIO_1.Properties.Resources.resources
+C:\Users\Christian\source\repos\CLASE 2 - EJERCICIO 1\CLASE 2 - EJERCICIO 1\obj\Debug\CLASE 2 - EJERCICIO 1.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\CLASE 2 - EJERCICIO 1\CLASE 2 - EJERCICIO 1\obj\Debug\CLASE 2 - EJERCICIO 1.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\CLASE 2 - EJERCICIO 1\CLASE 2 - EJERCICIO 1\obj\Debug\CLASE 2 - EJERCICIO 1.exe
+C:\Users\Christian\source\repos\CLASE 2 - EJERCICIO 1\CLASE 2 - EJERCICIO 1\obj\Debug\CLASE 2 - EJERCICIO 1.pdb

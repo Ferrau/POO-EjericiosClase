@@ -1,0 +1,13 @@
+C:\Users\Christian\source\repos\ClienteTCP\ClienteTCP\bin\Debug\ClienteTCP.exe.config
+C:\Users\Christian\source\repos\ClienteTCP\ClienteTCP\bin\Debug\ClienteTCP.exe
+C:\Users\Christian\source\repos\ClienteTCP\ClienteTCP\bin\Debug\ClienteTCP.pdb
+C:\Users\Christian\source\repos\ClienteTCP\ClienteTCP\bin\Debug\Red.dll
+C:\Users\Christian\source\repos\ClienteTCP\ClienteTCP\bin\Debug\Red.pdb
+C:\Users\Christian\source\repos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.Form1.resources
+C:\Users\Christian\source\repos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.Properties.Resources.resources
+C:\Users\Christian\source\repos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.csproj.CopyComplete
+C:\Users\Christian\source\repos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.exe
+C:\Users\Christian\source\repos\ClienteTCP\ClienteTCP\obj\Debug\ClienteTCP.pdb

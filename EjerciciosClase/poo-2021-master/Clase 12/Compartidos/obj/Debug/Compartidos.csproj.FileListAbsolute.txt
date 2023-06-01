@@ -1,0 +1,10 @@
+C:\Users\Christian\source\repos\Clase 12\Compartidos\bin\Debug\Compartidos.exe.config
+C:\Users\Christian\source\repos\Clase 12\Compartidos\bin\Debug\Compartidos.exe
+C:\Users\Christian\source\repos\Clase 12\Compartidos\bin\Debug\Compartidos.pdb
+C:\Users\Christian\source\repos\Clase 12\Compartidos\obj\Debug\Compartidos.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\Clase 12\Compartidos\obj\Debug\Compartidos.Form1.resources
+C:\Users\Christian\source\repos\Clase 12\Compartidos\obj\Debug\Compartidos.Properties.Resources.resources
+C:\Users\Christian\source\repos\Clase 12\Compartidos\obj\Debug\Compartidos.csproj.GenerateResource.cache
+C:\Users\Christian\source\repos\Clase 12\Compartidos\obj\Debug\Compartidos.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\Clase 12\Compartidos\obj\Debug\Compartidos.exe
+C:\Users\Christian\source\repos\Clase 12\Compartidos\obj\Debug\Compartidos.pdb

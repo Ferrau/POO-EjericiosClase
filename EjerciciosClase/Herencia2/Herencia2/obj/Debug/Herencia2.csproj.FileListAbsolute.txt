@@ -1,0 +1,9 @@
+C:\Users\Navegador\source\repos\Herencia2\Herencia2\bin\Debug\Herencia2.exe.config
+C:\Users\Navegador\source\repos\Herencia2\Herencia2\bin\Debug\Herencia2.exe
+C:\Users\Navegador\source\repos\Herencia2\Herencia2\bin\Debug\Herencia2.pdb
+C:\Users\Navegador\source\repos\Herencia2\Herencia2\obj\Debug\Herencia2.Form1.resources
+C:\Users\Navegador\source\repos\Herencia2\Herencia2\obj\Debug\Herencia2.Properties.Resources.resources
+C:\Users\Navegador\source\repos\Herencia2\Herencia2\obj\Debug\Herencia2.csproj.GenerateResource.cache
+C:\Users\Navegador\source\repos\Herencia2\Herencia2\obj\Debug\Herencia2.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\Herencia2\Herencia2\obj\Debug\Herencia2.exe
+C:\Users\Navegador\source\repos\Herencia2\Herencia2\obj\Debug\Herencia2.pdb
